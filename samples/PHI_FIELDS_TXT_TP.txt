@@ -1,0 +1,10 @@
+vw_patient_address
+vw_patient
+vw_assessments
+race_concept_canonical_name
+ethnicity_concept_canonical_name
+patient_id
+attachment_id
+institution_id
+
+

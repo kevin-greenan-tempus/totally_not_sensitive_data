@@ -1,0 +1,15 @@
+import foobar_fake_db_module as db
+
+
+def db_query(q):
+    results = db.execute(q)
+    return results
+
+
+def main():
+    query = "select patient_id, attachment from vw_patient where institution_id='foobar';"
+    print(db_query(query))
+
+
+if __name__ == "__main__":
+    main()

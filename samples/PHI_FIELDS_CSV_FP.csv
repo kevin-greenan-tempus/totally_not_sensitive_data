@@ -1,0 +1,9 @@
+schema_field_name,schema_field_type
+vw_patient_address,foo
+vw_patient,bar
+vw_assessments,baz
+race_concept_canonical_name,qux
+ethnicity_concept_canonical_name,quux
+patient_id,quuz
+attachment_id,corge
+institution_id,grault
